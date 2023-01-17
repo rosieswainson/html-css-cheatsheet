@@ -1,3 +1,5 @@
+/* ----------- UNIVERSAL STYLES ----------- */
+
 * {
     box-sizing: border-box;
 }
@@ -6,6 +8,10 @@ body {
     background-color: rgb(253, 218, 242);
     font-family: Helvetica, sans-serif;
 }
+
+
+/* ----------- HEADER STYLES ----------- */
+
 
 .title {
     text-align: center;
@@ -47,6 +53,8 @@ li a:hover {
     font-family: 'Courier New', Courier, monospace;
     color: blueviolet;
 }
+
+/* ----------- BODY STYLES ----------- */
 
 main {
     margin: 50px 20px;
